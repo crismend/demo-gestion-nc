@@ -1,2 +1,2 @@
-web: gunicorn wsgi:application
+python run_railway_setup.py
 
